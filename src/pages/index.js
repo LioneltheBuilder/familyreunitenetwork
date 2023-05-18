@@ -20,10 +20,11 @@ export default function IndexPage() {
     <>
       <Seo title="Family Reunite Network TJ Scott Books" />
       <Page useSplashScreenAnimation>
+      <HeroSection sectionId="hero" />
 
         <AboutSection sectionId="about" heading="This is the story of T.J Scott" />
         <Animation type="fadeUp"> 
-                <Section heading="If you pick up one book this year...">
+                <Section heading="If you pick up one book this year let it be...">
                   <h2>Stumbling in the dark</h2>
                   <div className="book-image">
           <img src={imageSrc} alt={imageAlt} />
@@ -34,7 +35,7 @@ export default function IndexPage() {
       </a>
                 </Section>
             </Animation>
-            <ContactSection sectionId="github" heading="Contact US" />
+            <ContactSection sectionId="contact" heading="Contact US" />
            
       </Page>
     </>
