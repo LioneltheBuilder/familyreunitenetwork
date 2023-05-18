@@ -18,11 +18,10 @@ const imageAlt = "Stumbling in the Dark by T.J Scott";
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title="Family Reunite Network TJ Scott Books" />
       <Page useSplashScreenAnimation>
-        <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Blogs" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
+
+        <AboutSection sectionId="about" heading="This is the story of T.J Scott" />
         <Animation type="fadeUp"> 
                 <Section heading="If you pick up one book this year...">
                   <h2>Stumbling in the dark</h2>
@@ -35,7 +34,8 @@ export default function IndexPage() {
       </a>
                 </Section>
             </Animation>
-        <ContactSection sectionId="github" heading="Issues?" />
+            <ContactSection sectionId="github" heading="Contact US" />
+           
       </Page>
     </>
   );
