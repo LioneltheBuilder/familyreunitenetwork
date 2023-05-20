@@ -1,13 +1,10 @@
 {
   "name": "We are helping to reunite one family at a time, please feel free to email us for more info.",
   "email": "example@mail.com",
-  "description": "We would love to hear from you please follow us on all your socials.",
+  "description": "We would love to hear from you please follow us on all socials.",
   "image": {
-    "src": "../../images/Family Reunite Network (1).png",
+    "src": "../../images/alternativefont.jpg",
     "alt": "Family Reunite Network Logo"
-  },
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": true
   }
+  
 }

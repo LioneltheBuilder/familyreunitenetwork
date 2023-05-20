@@ -13,5 +13,10 @@
     "prefix": "Join us as we work",
     "highlight": " to bring families together ",
     "suffix": "."
+  },
+  "description": "Our dedicated team is committed to providing compassionate support and guiding you through the immigration process. We understand the challenges you face and are here to help you reunite with your loved ones. Together, let's make the journey towards family reunification a smoother and more positive experience.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
   }
 }
