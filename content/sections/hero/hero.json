@@ -1,22 +1,17 @@
 {
   "intro": "Hello!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/alternativefont - Copy.jpg",
+    "alt": "Family Reunite Network Logo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "and welcome to our Network!",
+  "title": "Welcome to our Network!",
   "subtitle": {
-    "prefix": "Where we are working endlessly",
+    "prefix": "Join us as we work",
     "highlight": " to bring families together ",
     "suffix": "."
-  },
-  "description": "Here at Family Reunite Network, founded by T.J Scott.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
   }
 }
