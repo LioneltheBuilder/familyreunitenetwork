@@ -13,7 +13,7 @@ import {
   Animation 
 } from "gatsby-theme-portfolio-minimal";
 const buyBookUrl = "https://www.amazon.com/gp/aw/d/B0976M6MF5/ref=tmm_pap_swatch_0?ie=UTF8&qid=1624368659&sr=8-3";
-const imageSrc = "../../images/100_2462.JPG";
+const imageSrc = "../../images/008-Mystery-Forest.png";
 const imageAlt = "Stumbling in the Dark by T.J Scott";
 export default function IndexPage() {
   return (
