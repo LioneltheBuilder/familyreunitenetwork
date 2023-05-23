@@ -1,12 +1,8 @@
 {
-  "intro": "Hello!",
+ 
   "heroPhoto": {
     "src": "../../images/alternativefont - Copy.jpg",
     "alt": "Family Reunite Network Logo"
-  },
-  "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
   },
   "title": "Welcome to our Network!",
   "subtitle": {
