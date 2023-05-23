@@ -27,16 +27,7 @@ export default function IndexPage() {
 
         <AboutSection sectionId="about" heading="This is the story of T.J Scott" />
         <Animation type="fadeUp"> 
-                <Section heading="If you pick up one book this year let it be...">
-                  <h2>Stumbling in the dark</h2>
-                  <div className="book-image">
-                  <img src={`../../ebook cover.jpg`} alt="Stumbling in the dark by T.J Scott" style={imageSize}/>
-</div>
-      <p>It begins with an unwanted goodbye. Life is never straight forward for Tim and Dana. Stumbling through life in two different countries, by the incalculable odds they meet while running into each other at the movie theater they both work for. As quickly as they are connected, their lives are torn apart. What brought them together has also taken them away, a simple phone call. Desperate to get back to the love of his life and the family he has created, nothing will stop him. With a job loss and no money in the bank, he takes a risk to see his newborn daughter for the first time. He walks the lonely road to find it's not so lonely. Come explore the depths of what it takes to be a family of immigrants and the depth of love it takes to unite. This memoir is touched with journal entries of this man's great journey. How far would you go for your family?</p>
-      <a href={buyBookUrl} target="_blank" rel="noopener noreferrer" className="buy-button">
-        Buy Now
-      </a>
-                </Section>
+        <ProjectsSection>  </ProjectsSection>
             </Animation>
             <ContactSection sectionId="contact" heading="Contact US" />
            

@@ -2,46 +2,44 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "If you get one book this year let it be",
+      "title": "Stumbling in the Dark",
+      "description": "It begins with an unwanted goodbye. Life is never straight forward for Tim and Dana. Stumbling through life in two different countries, by the incalculable odds they meet while running into each other at the movie theater they both work for. As quickly as they are connected, their lives are torn apart. What brought them together has also taken them away, a simple phone call.",
+      "tags": ["Click below to buy"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/Book.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://www.amazon.com/dp/B0976M6MF5/ref=redir_mobile_desktop?_encoding=UTF8&qid=1624368659&ref_=tmm_pap_swatch_0&sr=8-3"
       },
       "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
+       
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.gatsbyjs.com/docs/how-to/routing/mdx/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Comming Soon..",
+      "title": "Check out T.J Scott's future titles",
+      "description": "Without a proper father figure in his life, Tim has always fought an internal struggle with the man he always wanted to be. Now nearing middle aged, he wonders if he was destined for a life of struggle or if his path could have diverged to become something more. Nature or Nurture.",
+      "tags": [""],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/NvsN.jpg",
+        "alt": "Nature vs Nurture"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "visible": true,
+          "type": "external",
+          "url": "https://www.amazon.com/dp/B0976M6MF5/ref=redir_mobile_desktop?_encoding=UTF8&qid=1624368659&ref_=tmm_pap_swatch_0&sr=8-3"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
