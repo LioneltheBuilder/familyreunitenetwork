@@ -12,7 +12,7 @@
   },
   "description": "Welcome to Family Reunite Network! We are a platform dedicated to fostering meaningful connections, providing fatherly advice, addressing immigration issues, and helping individuals overcome life's challenges. Our mission is to facilitate family reunification, offer valuable insights and resources, and create a supportive community where you can learn, grow, and connect with others. Whether you're seeking guidance on family relationships, parenting, or navigating immigration processes, our team is here to share in your experiences you every step of the way. Join us and embark on a journey of reconnection, personal growth, and building a stronger family foundation.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail", "instagram","youtube","twitter"],
+    "from": ["Medium", "Github", "Mail", "instagram","youtube","twitter"],
     "showIcons": false
   }
 }

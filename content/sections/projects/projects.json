@@ -5,15 +5,16 @@
       "category": "If you get one book this year let it be",
       "title": "Stumbling in the Dark",
       "description": "It begins with an unwanted goodbye. Life is never straight forward for Tim and Dana. Stumbling through life in two different countries, by the incalculable odds they meet while running into each other at the movie theater they both work for. As quickly as they are connected, their lives are torn apart. What brought them together has also taken them away, a simple phone call.",
-      "tags": ["Click below to buy"],
       "image": {
         "src": "../../images/book.jpg",
+        "tags": ["Click photo to buy"],
         "alt": "Quick Setup",
         "linkTo": "https://www.amazon.com/dp/B0976M6MF5/ref=redir_mobile_desktop?_encoding=UTF8&qid=1624368659&ref_=tmm_pap_swatch_0&sr=8-3"
       },
       "links": [
        
         {
+      
           "type": "external",
           "url": "https://www.amazon.com/dp/B0976M6MF5/ref=redir_mobile_desktop?_encoding=UTF8&qid=1624368659&ref_=tmm_pap_swatch_0&sr=8-3"
         }

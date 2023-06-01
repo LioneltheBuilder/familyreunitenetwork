@@ -32,6 +32,7 @@ export default function IndexPage() {
             <ContactSection sectionId="contact" heading="Contact US" />
            
       </Page>
+      
     </>
   );
 }
