@@ -17,6 +17,8 @@ const imageSize = {
   maxWidth: '400px',
   maxHeight: '600px' // Adjust the width as needed
 };
+const trackingCode = `G-M8MTCQY1BN`;
+
 
 export default function IndexPage() {
   return (

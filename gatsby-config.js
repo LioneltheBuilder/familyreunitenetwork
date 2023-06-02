@@ -13,6 +13,11 @@ module.exports = {
           themeColor: "#000000", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
+          resolve: 'gatsby-plugin-google-tagmanager',
+          options: {
+            id: 'G-M8MTCQY1BN',
+            includeInDevelopment: false, // Set to true if you want GTM to be enabled in development mode as well
+          },
         contentDirectory: "./content",
         blogSettings: {
           path: "/blog", // Defines the slug for the blog listing page
