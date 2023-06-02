@@ -13,8 +13,7 @@
   },
   "dependencies": {
     "gatsby": "^5.0.1",
-    "gatsby-plugin-google-analytics": "^5.10.0",
-    "gatsby-theme-portfolio-minimal": "^2.2.3",
+    "gatsby-theme-portfolio-minimal": "^4.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -30,15 +29,11 @@
     "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
   },
   "keywords": [
-    "react",
-    "gatsby",
-    "gatsby-theme",
-    "PWA",
-    "portfolio",
-    "showcase",
-    "minimal",
-    "animations",
-    "dark-mode",
-    "gdpr-compliant"
+    "Immigrant families",
+    "Immigration issues",
+    "family seperation",
+    "language barriers",
+    "legal immigration",
+    "multicultural families"
   ]
 }
