@@ -1,10 +1,10 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "www.familyreunitenetwork.com",
+    "title": "family reunite network",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Welcome to Family Reunite Network! We are a platform dedicated to fostering meaningful connections, providing fatherly advice, addressing immigration issues, and helping individuals overcome life's challenges.",
     "author": "TJ Scott",
     "avatar": "../../images/Family Reunite Network (1).png",
     "bio": "I hope to make a difference not just for my family, but that of others, too.",
